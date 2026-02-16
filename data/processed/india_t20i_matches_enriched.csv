@@ -1,0 +1,159 @@
+match_id,date,team1,team2,venue,city,winner,toss_winner,toss_decision,event,opponent,india_result,year,india_won_toss,india_batted_first
+1065348,04-12-2016,India,Pakistan,Asian Institute of Technology Ground,Bangkok,India,India,bat,Asian Cricket Council Women's Twenty20 Asia Cup,Pakistan,Win,2016,TRUE,TRUE
+1123206,13-02-2018,South Africa,India,Senwes Park,Potchefstroom,India,India,field,India Women tour of South Africa,South Africa,Win,2018,TRUE,FALSE
+1123207,16-02-2018,South Africa,India,Buffalo Park,East London,India,India,field,India Women tour of South Africa,South Africa,Win,2018,TRUE,FALSE
+1123208,18-02-2018,India,South Africa,The Wanderers Stadium,Johannesburg,South Africa,South Africa,field,India Women tour of South Africa,South Africa,Loss,2018,FALSE,TRUE
+1123209,21-02-2018,South Africa,India,SuperSport Park,Centurion,,India,field,India Women tour of South Africa,South Africa,No Result,2018,TRUE,FALSE
+1123210,24-02-2018,India,South Africa,Newlands,Cape Town,India,South Africa,field,India Women tour of South Africa,South Africa,Win,2018,FALSE,TRUE
+1131235,22-03-2018,India,Australia,Brabourne Stadium,Mumbai,Australia,Australia,field,India Tri-Nation Women's T20 Series,Australia,Loss,2018,FALSE,TRUE
+1131237,25-03-2018,India,England,Brabourne Stadium,Mumbai,England,England,field,India Tri-Nation Women's T20 Series,England,Loss,2018,FALSE,TRUE
+1131238,26-03-2018,Australia,India,Brabourne Stadium,Mumbai,Australia,India,field,India Tri-Nation Women's T20 Series,Australia,Loss,2018,TRUE,FALSE
+1131240,29-03-2018,England,India,Brabourne Stadium,Mumbai,India,England,bat,India Tri-Nation Women's T20 Series,England,Win,2018,FALSE,FALSE
+1148048,03-06-2018,India,Malaysia,Kinrara Academy Oval,Kuala Lumpur,India,India,bat,Women's Twenty20 Asia Cup,Malaysia,Win,2018,TRUE,TRUE
+1148052,04-06-2018,India,Thailand,Royal Selangor Club,Kuala Lumpur,India,Thailand,field,Women's Twenty20 Asia Cup,Thailand,Win,2018,FALSE,TRUE
+1148056,06-06-2018,India,Bangladesh,Kinrara Academy Oval,Kuala Lumpur,Bangladesh,India,bat,Women's Twenty20 Asia Cup,Bangladesh,Loss,2018,TRUE,TRUE
+1148059,07-06-2018,Sri Lanka,India,Royal Selangor Club,Kuala Lumpur,India,Sri Lanka,bat,Women's Twenty20 Asia Cup,Sri Lanka,Win,2018,FALSE,FALSE
+1148060,09-06-2018,Pakistan,India,Kinrara Academy Oval,Kuala Lumpur,India,Pakistan,bat,Women's Twenty20 Asia Cup,Pakistan,Win,2018,FALSE,FALSE
+1148063,10-06-2018,India,Bangladesh,Kinrara Academy Oval,Kuala Lumpur,Bangladesh,Bangladesh,field,Women's Twenty20 Asia Cup,Bangladesh,Loss,2018,FALSE,TRUE
+1150533,09-11-2018,India,New Zealand,Providence Stadium,Guyana,India,India,bat,ICC Women's T20 World Cup,New Zealand,Win,2018,TRUE,TRUE
+1150537,11-11-2018,Pakistan,India,Providence Stadium,Guyana,India,India,field,ICC Women's T20 World Cup,Pakistan,Win,2018,TRUE,FALSE
+1150545,15-11-2018,India,Ireland,Providence Stadium,Guyana,India,Ireland,field,ICC Women's T20 World Cup,Ireland,Win,2018,FALSE,TRUE
+1150549,17-11-2018,India,Australia,Providence Stadium,Guyana,India,India,bat,ICC Women's T20 World Cup,Australia,Win,2018,TRUE,TRUE
+1150554,22-11-2018,India,England,"Sir Vivian Richards Stadium, North Sound",Antigua,England,India,bat,ICC Women's T20 World Cup,England,Loss,2018,TRUE,TRUE
+1153858,06-02-2019,New Zealand,India,Westpac Stadium,Wellington,New Zealand,India,field,India Women tour of New Zealand,New Zealand,Loss,2019,TRUE,FALSE
+1153859,08-02-2019,New Zealand,India,Eden Park,Auckland,New Zealand,New Zealand,field,India Women tour of New Zealand,New Zealand,Loss,2019,FALSE,TRUE
+1153860,10-02-2019,New Zealand,India,Seddon Park,Hamilton,New Zealand,New Zealand,bat,India Women tour of New Zealand,New Zealand,Loss,2019,FALSE,FALSE
+1157710,21-09-2018,Sri Lanka,India,Colts Cricket Club Ground,Colombo,,India,field,India Women tour of Sri Lanka,Sri Lanka,No Result,2018,TRUE,FALSE
+1157711,22-09-2018,Sri Lanka,India,Colombo Cricket Club Ground,,India,India,field,India Women tour of Sri Lanka,Sri Lanka,Win,2018,TRUE,FALSE
+1157712,24-09-2018,Sri Lanka,India,Colombo Cricket Club Ground,,India,India,field,India Women tour of Sri Lanka,Sri Lanka,Win,2018,TRUE,FALSE
+1157713,25-09-2018,India,Sri Lanka,Chilaw Marians Cricket Club Ground,FTZ Sports Complex,India,Sri Lanka,field,India Women tour of Sri Lanka,Sri Lanka,Win,2018,FALSE,TRUE
+1172163,04-03-2019,India,England,Barsapara Cricket Stadium,Guwahati,England,India,field,England Women tour of India,England,Loss,2019,TRUE,FALSE
+1172164,07-03-2019,India,England,Barsapara Cricket Stadium,Guwahati,England,England,field,England Women tour of India,England,Loss,2019,FALSE,TRUE
+1172165,09-03-2019,India,England,Barsapara Cricket Stadium,Guwahati,England,England,bat,England Women tour of India,England,Loss,2019,FALSE,FALSE
+1173048,21-02-2020,Australia,India,Sydney Showground Stadium,Sydney,India,Australia,field,ICC Women's T20 World Cup,Australia,Win,2020,FALSE,TRUE
+1173053,24-02-2020,Bangladesh,India,W.A.C.A. Ground,Perth,India,Bangladesh,field,ICC Women's T20 World Cup,Bangladesh,Win,2020,FALSE,TRUE
+1173056,27-02-2020,India,New Zealand,Junction Oval,Melbourne,India,New Zealand,field,ICC Women's T20 World Cup,New Zealand,Win,2020,FALSE,TRUE
+1173061,29-02-2020,India,Sri Lanka,Junction Oval,Melbourne,India,Sri Lanka,bat,ICC Women's T20 World Cup,Sri Lanka,Win,2020,FALSE,FALSE
+1173070,08-03-2020,Australia,India,Melbourne Cricket Ground,Melbourne,Australia,Australia,bat,ICC Women's T20 World Cup,Australia,Loss,2020,FALSE,FALSE
+1183543,31-01-2020,England,India,Manuka Oval,Canberra,India,India,field,Australia Tri-Nation Women's T20 Series,England,Win,2020,TRUE,FALSE
+1183545,02-02-2020,Australia,India,Manuka Oval,Canberra,Australia,Australia,field,Australia Tri-Nation Women's T20 Series,Australia,Loss,2020,FALSE,TRUE
+1183546,07-02-2020,England,India,Junction Oval,Melbourne,England,England,field,Australia Tri-Nation Women's T20 Series,England,Loss,2020,FALSE,TRUE
+1183547,08-02-2020,Australia,India,Junction Oval,Melbourne,India,India,field,Australia Tri-Nation Women's T20 Series,Australia,Win,2020,TRUE,FALSE
+1183549,12-02-2020,Australia,India,Junction Oval,Melbourne,Australia,Australia,bat,Australia Tri-Nation Women's T20 Series,Australia,Loss,2020,FALSE,FALSE
+1198478,24-09-2019,India,South Africa,Lalabhai Contractor Stadium,Surat,India,South Africa,field,South Africa Women tour of India,South Africa,Win,2019,FALSE,TRUE
+1198481,01-10-2019,India,South Africa,Lalabhai Contractor Stadium,Surat,India,South Africa,field,South Africa Women tour of India,South Africa,Win,2019,FALSE,TRUE
+1198482,04-10-2019,India,South Africa,Lalabhai Contractor Stadium,Surat,South Africa,South Africa,bat,South Africa Women tour of India,South Africa,Loss,2019,FALSE,FALSE
+1202252,09-11-2019,West Indies,India,"Darren Sammy National Cricket Stadium, St Lucia",Gros Islet,India,West Indies,field,India Women tour of West Indies,West Indies,Win,2019,FALSE,TRUE
+1202253,10-11-2019,West Indies,India,"Darren Sammy National Cricket Stadium, St Lucia",Gros Islet,India,West Indies,bat,India Women tour of West Indies,West Indies,Win,2019,FALSE,FALSE
+1202254,14-11-2019,West Indies,India,"Providence Stadium, Guyana",Providence,India,West Indies,bat,India Women tour of West Indies,West Indies,Win,2019,FALSE,FALSE
+1202255,17-11-2019,West Indies,India,"Providence Stadium, Guyana",Providence,India,West Indies,field,India Women tour of West Indies,West Indies,Win,2019,FALSE,TRUE
+1202256,20-11-2019,West Indies,India,"Providence Stadium, Guyana",Providence,India,India,bat,India Women tour of West Indies,West Indies,Win,2019,TRUE,TRUE
+1202366,03-10-2019,India,South Africa,Lalabhai Contractor Stadium,Surat,India,India,field,South Africa Women tour of India,South Africa,Win,2019,TRUE,FALSE
+1253272,20-03-2021,India,South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,South Africa,South Africa,field,South Africa Women tour of India,South Africa,Loss,2021,FALSE,TRUE
+1253273,21-03-2021,India,South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,South Africa,South Africa,field,South Africa Women tour of India,South Africa,Loss,2021,FALSE,TRUE
+1253274,23-03-2021,South Africa,India,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,India,India,field,South Africa Women tour of India,South Africa,Win,2021,TRUE,FALSE
+1260097,09-07-2021,England,India,"County Ground, Northampton",Northampton,England,India,field,India Women tour of England,England,Loss,2021,TRUE,FALSE
+1260098,11-07-2021,India,England,"County Ground, Hove",Brighton,India,England,field,India Women tour of England,England,Win,2021,FALSE,TRUE
+1260099,14-07-2021,India,England,"County Ground, Chelmsford",Chelmsford,England,India,bat,India Women tour of England,England,Loss,2021,TRUE,TRUE
+1263621,07-10-2021,India,Australia,Carrara Oval,Carrara,,Australia,field,India Women tour of Australia,Australia,No Result,2021,FALSE,TRUE
+1263622,09-10-2021,India,Australia,Carrara Oval,Carrara,Australia,Australia,field,India Women tour of Australia,Australia,Loss,2021,FALSE,TRUE
+1263623,10-10-2021,Australia,India,Carrara Oval,Carrara,Australia,India,field,India Women tour of Australia,Australia,Loss,2021,TRUE,FALSE
+1289031,09-02-2022,New Zealand,India,"John Davies Oval, Queenstown",Queenstown,New Zealand,India,field,India Women tour of New Zealand,New Zealand,Loss,2022,TRUE,FALSE
+1289259,29-07-2022,India,Australia,"Edgbaston, Birmingham",Birmingham,Australia,India,bat,Commonwealth Games Women's Cricket Competition,Australia,Loss,2022,TRUE,TRUE
+1289263,31-07-2022,Pakistan,India,"Edgbaston, Birmingham",Birmingham,India,Pakistan,bat,Commonwealth Games Women's Cricket Competition,Pakistan,Win,2022,FALSE,FALSE
+1289268,03-08-2022,India,Barbados,"Edgbaston, Birmingham",Birmingham,India,Barbados,field,Commonwealth Games Women's Cricket Competition,Barbados,Win,2022,FALSE,TRUE
+1289271,06-08-2022,India,England,"Edgbaston, Birmingham",Birmingham,India,India,bat,Commonwealth Games Women's Cricket Competition,England,Win,2022,TRUE,TRUE
+1289274,07-08-2022,Australia,India,"Edgbaston, Birmingham",Birmingham,Australia,Australia,bat,Commonwealth Games Women's Cricket Competition,Australia,Loss,2022,FALSE,FALSE
+1301334,10-09-2022,India,England,"Riverside Ground, Chester-le-Street",Chester-le-Street,England,England,field,India Women tour of England,England,Loss,2022,FALSE,TRUE
+1301335,13-09-2022,England,India,"County Ground, Derby",Derby,India,England,bat,India Women tour of England,England,Win,2022,FALSE,FALSE
+1301336,15-09-2022,India,England,"County Ground, Bristol",Bristol,England,England,field,India Women tour of England,England,Loss,2022,FALSE,TRUE
+1319709,23-06-2022,India,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,India,India,bat,India Women tour of Sri Lanka,Sri Lanka,Win,2022,TRUE,TRUE
+1319710,25-06-2022,Sri Lanka,India,Rangiri Dambulla International Stadium,Dambulla,India,Sri Lanka,bat,India Women tour of Sri Lanka,Sri Lanka,Win,2022,FALSE,FALSE
+1319711,27-06-2022,India,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka,India,bat,India Women tour of Sri Lanka,Sri Lanka,Loss,2022,TRUE,TRUE
+1335786,01-10-2022,India,Sri Lanka,"Sylhet International Cricket Stadium, Academy Ground",Sylhet,India,Sri Lanka,field,Women's Asia Cup,Sri Lanka,Win,2022,FALSE,TRUE
+1335790,03-10-2022,India,Malaysia,"Sylhet International Cricket Stadium, Academy Ground",Sylhet,India,Malaysia,field,Women's Asia Cup,Malaysia,Win,2022,FALSE,TRUE
+1335792,04-10-2022,India,United Arab Emirates,"Sylhet International Cricket Stadium, Academy Ground",Sylhet,India,India,bat,Women's Asia Cup,United Arab Emirates,Win,2022,TRUE,TRUE
+1335797,07-10-2022,Pakistan,India,Sylhet International Cricket Stadium,Sylhet,Pakistan,Pakistan,bat,Women's Asia Cup,Pakistan,Loss,2022,FALSE,FALSE
+1335799,08-10-2022,India,Bangladesh,Sylhet International Cricket Stadium,Sylhet,India,India,bat,Women's Asia Cup,Bangladesh,Win,2022,TRUE,TRUE
+1335803,10-10-2022,Thailand,India,Sylhet International Cricket Stadium,Sylhet,India,India,field,Women's Asia Cup,Thailand,Win,2022,TRUE,FALSE
+1335806,13-10-2022,India,Thailand,Sylhet International Cricket Stadium,Sylhet,India,Thailand,field,Women's Asia Cup,Thailand,Win,2022,FALSE,TRUE
+1335808,15-10-2022,Sri Lanka,India,Sylhet International Cricket Stadium,Sylhet,India,Sri Lanka,bat,Women's Asia Cup,Sri Lanka,Win,2022,FALSE,FALSE
+1338043,12-02-2023,Pakistan,India,"Newlands, Cape Town",Cape Town,India,Pakistan,bat,ICC Women's T20 World Cup,Pakistan,Win,2023,FALSE,FALSE
+1338048,15-02-2023,West Indies,India,"Newlands, Cape Town",Cape Town,India,West Indies,bat,ICC Women's T20 World Cup,West Indies,Win,2023,FALSE,FALSE
+1338053,18-02-2023,England,India,"St George's Park, Gqeberha",Gqeberha,England,India,field,ICC Women's T20 World Cup,England,Loss,2023,TRUE,FALSE
+1338057,20-02-2023,India,Ireland,"St George's Park, Gqeberha",Gqeberha,India,India,bat,ICC Women's T20 World Cup,Ireland,Win,2023,TRUE,TRUE
+1338060,23-02-2023,Australia,India,"Newlands, Cape Town",Cape Town,Australia,Australia,bat,ICC Women's T20 World Cup,Australia,Loss,2023,FALSE,FALSE
+1344511,19-01-2023,India,South Africa,"Buffalo Park, East London",East London,India,South Africa,field,South Africa Women's T20I Tri-Series,South Africa,Win,2023,FALSE,TRUE
+1344513,23-01-2023,India,West Indies,"Buffalo Park, East London",East London,India,India,bat,South Africa Women's T20I Tri-Series,West Indies,Win,2023,TRUE,TRUE
+1344515,28-01-2023,India,South Africa,"Buffalo Park, East London",East London,,India,bat,South Africa Women's T20I Tri-Series,South Africa,No Result,2023,TRUE,TRUE
+1344516,30-01-2023,West Indies,India,"Buffalo Park, East London",East London,India,India,field,South Africa Women's T20I Tri-Series,West Indies,Win,2023,TRUE,FALSE
+1344517,02-02-2023,India,South Africa,"Buffalo Park, East London",East London,South Africa,India,bat,South Africa Women's T20I Tri-Series,South Africa,Loss,2023,TRUE,TRUE
+1345424,09-12-2022,India,Australia,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Australia,Australia,field,Australia Women tour of India,Australia,Loss,2022,FALSE,TRUE
+1345425,11-12-2022,Australia,India,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,,India,field,Australia Women tour of India,Australia,No Result,2022,TRUE,FALSE
+1345426,14-12-2022,Australia,India,"Brabourne Stadium, Mumbai",Mumbai,Australia,India,field,Australia Women tour of India,Australia,Loss,2022,TRUE,FALSE
+1345427,17-12-2022,Australia,India,"Brabourne Stadium, Mumbai",Mumbai,Australia,India,field,Australia Women tour of India,Australia,Loss,2022,TRUE,FALSE
+1345428,20-12-2022,Australia,India,"Brabourne Stadium, Mumbai",Mumbai,Australia,India,field,Australia Women tour of India,Australia,Loss,2022,TRUE,FALSE
+1382163,09-07-2023,Bangladesh,India,"Shere Bangla National Stadium, Mirpur",Dhaka,India,India,field,India Women tour of Bangladesh,Bangladesh,Win,2023,TRUE,FALSE
+1382164,11-07-2023,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,India,India,bat,India Women tour of Bangladesh,Bangladesh,Win,2023,TRUE,TRUE
+1382165,13-07-2023,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,India,bat,India Women tour of Bangladesh,Bangladesh,Loss,2023,TRUE,TRUE
+1399055,21-09-2023,India,Malaysia,Zhejiang University of Technology Cricket Field,Hangzhou,,Malaysia,field,Asian Games Women's Cricket Competition,Malaysia,No Result,2023,FALSE,TRUE
+1399059,24-09-2023,Bangladesh,India,Zhejiang University of Technology Cricket Field,Hangzhou,India,Bangladesh,bat,Asian Games Women's Cricket Competition,Bangladesh,Win,2023,FALSE,FALSE
+1399062,25-09-2023,India,Sri Lanka,Zhejiang University of Technology Cricket Field,Hangzhou,India,India,bat,Asian Games Women's Cricket Competition,Sri Lanka,Win,2023,TRUE,TRUE
+1406073,06-12-2023,England,India,"Wankhede Stadium, Mumbai",Mumbai,England,India,field,England Women tour of India,England,Loss,2023,TRUE,FALSE
+1406074,09-12-2023,India,England,"Wankhede Stadium, Mumbai",Mumbai,England,England,field,England Women tour of India,England,Loss,2023,FALSE,TRUE
+1406075,10-12-2023,England,India,"Wankhede Stadium, Mumbai",Mumbai,India,England,bat,England Women tour of India,England,Win,2023,FALSE,FALSE
+1406081,05-01-2024,Australia,India,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,India,India,field,Australia Women tour of India,Australia,Win,2024,TRUE,FALSE
+1406082,07-01-2024,India,Australia,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Australia,Australia,field,Australia Women tour of India,Australia,Loss,2024,FALSE,TRUE
+1406083,09-01-2024,India,Australia,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Australia,Australia,field,Australia Women tour of India,Australia,Loss,2024,FALSE,TRUE
+1426757,19-07-2024,Pakistan,India,Rangiri Dambulla International Stadium,Dambulla,India,Pakistan,bat,Women's Asia Cup,Pakistan,Win,2024,FALSE,FALSE
+1426760,21-07-2024,India,United Arab Emirates,Rangiri Dambulla International Stadium,Dambulla,India,United Arab Emirates,field,Women's Asia Cup,United Arab Emirates,Win,2024,FALSE,TRUE
+1426765,23-07-2024,India,Nepal,Rangiri Dambulla International Stadium,Dambulla,India,India,bat,Women's Asia Cup,Nepal,Win,2024,TRUE,TRUE
+1426768,26-07-2024,Bangladesh,India,Rangiri Dambulla International Stadium,Dambulla,India,Bangladesh,bat,Women's Asia Cup,Bangladesh,Win,2024,FALSE,FALSE
+1426770,28-07-2024,India,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka,India,bat,Women's Asia Cup,Sri Lanka,Loss,2024,TRUE,TRUE
+1429393,28-04-2024,India,Bangladesh,Sylhet International Cricket Stadium,Sylhet,India,India,bat,India Women tour of Bangladesh,Bangladesh,Win,2024,TRUE,TRUE
+1429394,30-04-2024,Bangladesh,India,Sylhet International Cricket Stadium,Sylhet,India,Bangladesh,bat,India Women tour of Bangladesh,Bangladesh,Win,2024,FALSE,FALSE
+1429395,02-05-2024,Bangladesh,India,Sylhet International Cricket Stadium,Sylhet,India,India,field,India Women tour of Bangladesh,Bangladesh,Win,2024,TRUE,FALSE
+1429396,06-05-2024,India,Bangladesh,Sylhet International Cricket Stadium,Sylhet,India,Bangladesh,field,India Women tour of Bangladesh,Bangladesh,Win,2024,FALSE,TRUE
+1429397,09-05-2024,India,Bangladesh,Sylhet International Cricket Stadium,Sylhet,India,India,bat,India Women tour of Bangladesh,Bangladesh,Win,2024,TRUE,TRUE
+1432425,04-10-2024,New Zealand,India,Dubai International Cricket Stadium,Dubai,New Zealand,New Zealand,bat,ICC Women's T20 World Cup,New Zealand,Loss,2024,FALSE,FALSE
+1432428,06-10-2024,Pakistan,India,Dubai International Cricket Stadium,Dubai,India,Pakistan,bat,ICC Women's T20 World Cup,Pakistan,Win,2024,FALSE,FALSE
+1432433,09-10-2024,India,Sri Lanka,Dubai International Cricket Stadium,Dubai,India,India,bat,ICC Women's T20 World Cup,Sri Lanka,Win,2024,TRUE,TRUE
+1432439,13-10-2024,Australia,India,Sharjah Cricket Stadium,Sharjah,Australia,Australia,bat,ICC Women's T20 World Cup,Australia,Loss,2024,FALSE,FALSE
+1434291,05-07-2024,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,South Africa,India,field,South Africa Women tour of India,South Africa,Loss,2024,TRUE,FALSE
+1434292,07-07-2024,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,,India,field,South Africa Women tour of India,South Africa,No Result,2024,TRUE,FALSE
+1434293,09-07-2024,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,India,India,field,South Africa Women tour of India,South Africa,Win,2024,TRUE,FALSE
+1448397,28-06-2025,India,England,"Trent Bridge, Nottingham",Nottingham,India,England,field,India Women tour of England,England,Win,2025,FALSE,TRUE
+1448398,01-07-2025,India,England,"County Ground, Bristol",Bristol,India,England,field,India Women tour of England,England,Win,2025,FALSE,TRUE
+1448399,04-07-2025,England,India,"Kennington Oval, London",London,England,England,bat,India Women tour of England,England,Loss,2025,FALSE,FALSE
+1448400,09-07-2025,England,India,"Old Trafford, Manchester",Manchester,India,England,bat,India Women tour of England,England,Win,2025,FALSE,FALSE
+1448401,12-07-2025,India,England,"Edgbaston, Birmingham",Birmingham,England,England,field,India Women tour of England,England,Loss,2025,FALSE,TRUE
+1459891,15-12-2024,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,India,West Indies,field,West Indies Women tour of India,West Indies,Win,2024,FALSE,TRUE
+1459892,17-12-2024,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,West Indies,West Indies,field,West Indies Women tour of India,West Indies,Loss,2024,FALSE,TRUE
+1459893,19-12-2024,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,India,West Indies,field,West Indies Women tour of India,West Indies,Win,2024,FALSE,TRUE
+1513735,21-12-2025,Sri Lanka,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,India,India,field,Sri Lanka Women tour of India,Sri Lanka,Win,2025,TRUE,FALSE
+1513736,23-12-2025,Sri Lanka,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,India,India,field,Sri Lanka Women tour of India,Sri Lanka,Win,2025,TRUE,FALSE
+1513737,26-12-2025,Sri Lanka,India,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,India,India,field,Sri Lanka Women tour of India,Sri Lanka,Win,2025,TRUE,FALSE
+1513738,28-12-2025,India,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,India,Sri Lanka,field,Sri Lanka Women tour of India,Sri Lanka,Win,2025,FALSE,TRUE
+1513739,30-12-2025,India,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,India,Sri Lanka,field,Sri Lanka Women tour of India,Sri Lanka,Win,2025,FALSE,TRUE
+355988,18-06-2009,India,New Zealand,Trent Bridge,Nottingham,New Zealand,New Zealand,bat,ICC Women's World Twenty20,New Zealand,Loss,2009,FALSE,FALSE
+412716,13-05-2010,Australia,India,"Beausejour Stadium, Gros Islet",St Lucia,Australia,India,bat,ICC Women's World Twenty20,Australia,Loss,2010,TRUE,TRUE
+492547,26-06-2011,England,India,County Ground,Taunton,England,England,bat,NatWest Women's T20 Quadrangular Series,England,Loss,2011,FALSE,FALSE
+533302,27-09-2012,Australia,India,Galle International Stadium,,Australia,India,bat,ICC Women's World Twenty20,Australia,Loss,2012,TRUE,TRUE
+533306,29-09-2012,England,India,Galle International Stadium,,England,India,bat,ICC Women's World Twenty20,England,Loss,2012,TRUE,TRUE
+533309,01-10-2012,India,Pakistan,Galle International Stadium,,Pakistan,Pakistan,bat,ICC Women's World Twenty20,Pakistan,Loss,2012,FALSE,FALSE
+542850,26-06-2012,England,India,St Lawrence Ground,Canterbury,England,India,field,India Women in England T20I Series,England,Loss,2012,TRUE,FALSE
+542851,28-06-2012,England,India,County Ground,Chelmsford,England,India,bat,India Women in England T20I Series,England,Loss,2012,TRUE,TRUE
+584772,03-10-2012,Sri Lanka,India,Nondescripts Cricket Club Ground,Colombo,India,Sri Lanka,bat,ICC Women's World Twenty20,Sri Lanka,Win,2012,FALSE,FALSE
+584924,28-10-2012,India,Pakistan,Guanggong International Cricket Stadium,,India,Pakistan,bat,Asian Cricket Council Women's Twenty20 Asia Cup,Pakistan,Win,2012,FALSE,FALSE
+584929,31-10-2012,India,Pakistan,Guanggong International Cricket Stadium,,India,India,bat,Asian Cricket Council Women's Twenty20 Asia Cup,Pakistan,Win,2012,TRUE,TRUE
+682973,24-03-2014,India,Sri Lanka,Sylhet Stadium,,Sri Lanka,Sri Lanka,bat,Women's World T20,Sri Lanka,Loss,2014,FALSE,FALSE
+682981,26-03-2014,England,India,Sylhet Stadium,,England,India,bat,Women's World T20,England,Loss,2014,TRUE,TRUE
+682995,30-03-2014,Bangladesh,India,Sylhet Stadium,,India,India,bat,Women's World T20,Bangladesh,Win,2014,TRUE,TRUE
+683005,01-04-2014,India,West Indies,Sylhet Stadium,,India,West Indies,bat,Women's World T20,West Indies,Win,2014,FALSE,FALSE
+683009,02-04-2014,India,Pakistan,Sylhet Stadium,,India,India,bat,Women's World T20,Pakistan,Win,2014,TRUE,TRUE
+895789,29-01-2016,Australia,India,Melbourne Cricket Ground,,India,India,field,India Women in Australia T20I Series,Australia,Win,2016,TRUE,FALSE
+895791,31-01-2016,Australia,India,Sydney Cricket Ground,,Australia,India,field,India Women in Australia T20I Series,Australia,Loss,2016,TRUE,FALSE
+951375,15-03-2016,India,Bangladesh,M Chinnaswamy Stadium,Bangalore,India,Bangladesh,field,Women's World T20,Bangladesh,Win,2016,FALSE,TRUE
+951387,19-03-2016,India,Pakistan,Feroz Shah Kotla,Delhi,Pakistan,Pakistan,field,Women's World T20,Pakistan,Loss,2016,FALSE,TRUE
+951395,22-03-2016,India,England,Himachal Pradesh Cricket Association Stadium,Dharamsala,England,England,field,Women's World T20,England,Loss,2016,FALSE,TRUE
+951409,27-03-2016,India,West Indies,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,West Indies,India,field,Women's World T20,West Indies,Loss,2016,TRUE,FALSE
