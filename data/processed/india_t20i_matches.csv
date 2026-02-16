@@ -1,0 +1,159 @@
+match_id,date,team1,team2,venue,city,winner,toss_winner,toss_decision,event
+1065348,2016-12-04,India,Pakistan,Asian Institute of Technology Ground,Bangkok,India,India,bat,Asian Cricket Council Women's Twenty20 Asia Cup
+1123206,2018-02-13,South Africa,India,Senwes Park,Potchefstroom,India,India,field,India Women tour of South Africa
+1123207,2018-02-16,South Africa,India,Buffalo Park,East London,India,India,field,India Women tour of South Africa
+1123208,2018-02-18,India,South Africa,The Wanderers Stadium,Johannesburg,South Africa,South Africa,field,India Women tour of South Africa
+1123209,2018-02-21,South Africa,India,SuperSport Park,Centurion,,India,field,India Women tour of South Africa
+1123210,2018-02-24,India,South Africa,Newlands,Cape Town,India,South Africa,field,India Women tour of South Africa
+1131235,2018-03-22,India,Australia,Brabourne Stadium,Mumbai,Australia,Australia,field,India Tri-Nation Women's T20 Series
+1131237,2018-03-25,India,England,Brabourne Stadium,Mumbai,England,England,field,India Tri-Nation Women's T20 Series
+1131238,2018-03-26,Australia,India,Brabourne Stadium,Mumbai,Australia,India,field,India Tri-Nation Women's T20 Series
+1131240,2018-03-29,England,India,Brabourne Stadium,Mumbai,India,England,bat,India Tri-Nation Women's T20 Series
+1148048,2018-06-03,India,Malaysia,Kinrara Academy Oval,Kuala Lumpur,India,India,bat,Women's Twenty20 Asia Cup
+1148052,2018-06-04,India,Thailand,Royal Selangor Club,Kuala Lumpur,India,Thailand,field,Women's Twenty20 Asia Cup
+1148056,2018-06-06,India,Bangladesh,Kinrara Academy Oval,Kuala Lumpur,Bangladesh,India,bat,Women's Twenty20 Asia Cup
+1148059,2018-06-07,Sri Lanka,India,Royal Selangor Club,Kuala Lumpur,India,Sri Lanka,bat,Women's Twenty20 Asia Cup
+1148060,2018-06-09,Pakistan,India,Kinrara Academy Oval,Kuala Lumpur,India,Pakistan,bat,Women's Twenty20 Asia Cup
+1148063,2018-06-10,India,Bangladesh,Kinrara Academy Oval,Kuala Lumpur,Bangladesh,Bangladesh,field,Women's Twenty20 Asia Cup
+1150533,2018-11-09,India,New Zealand,Providence Stadium,Guyana,India,India,bat,ICC Women's T20 World Cup
+1150537,2018-11-11,Pakistan,India,Providence Stadium,Guyana,India,India,field,ICC Women's T20 World Cup
+1150545,2018-11-15,India,Ireland,Providence Stadium,Guyana,India,Ireland,field,ICC Women's T20 World Cup
+1150549,2018-11-17,India,Australia,Providence Stadium,Guyana,India,India,bat,ICC Women's T20 World Cup
+1150554,2018-11-22,India,England,"Sir Vivian Richards Stadium, North Sound",Antigua,England,India,bat,ICC Women's T20 World Cup
+1153858,2019-02-06,New Zealand,India,Westpac Stadium,Wellington,New Zealand,India,field,India Women tour of New Zealand
+1153859,2019-02-08,New Zealand,India,Eden Park,Auckland,New Zealand,New Zealand,field,India Women tour of New Zealand
+1153860,2019-02-10,New Zealand,India,Seddon Park,Hamilton,New Zealand,New Zealand,bat,India Women tour of New Zealand
+1157710,2018-09-21,Sri Lanka,India,Colts Cricket Club Ground,Colombo,,India,field,India Women tour of Sri Lanka
+1157711,2018-09-22,Sri Lanka,India,Colombo Cricket Club Ground,,India,India,field,India Women tour of Sri Lanka
+1157712,2018-09-24,Sri Lanka,India,Colombo Cricket Club Ground,,India,India,field,India Women tour of Sri Lanka
+1157713,2018-09-25,India,Sri Lanka,Chilaw Marians Cricket Club Ground,FTZ Sports Complex,India,Sri Lanka,field,India Women tour of Sri Lanka
+1172163,2019-03-04,India,England,Barsapara Cricket Stadium,Guwahati,England,India,field,England Women tour of India
+1172164,2019-03-07,India,England,Barsapara Cricket Stadium,Guwahati,England,England,field,England Women tour of India
+1172165,2019-03-09,India,England,Barsapara Cricket Stadium,Guwahati,England,England,bat,England Women tour of India
+1173048,2020-02-21,Australia,India,Sydney Showground Stadium,Sydney,India,Australia,field,ICC Women's T20 World Cup
+1173053,2020-02-24,Bangladesh,India,W.A.C.A. Ground,Perth,India,Bangladesh,field,ICC Women's T20 World Cup
+1173056,2020-02-27,India,New Zealand,Junction Oval,Melbourne,India,New Zealand,field,ICC Women's T20 World Cup
+1173061,2020-02-29,India,Sri Lanka,Junction Oval,Melbourne,India,Sri Lanka,bat,ICC Women's T20 World Cup
+1173070,2020-03-08,Australia,India,Melbourne Cricket Ground,Melbourne,Australia,Australia,bat,ICC Women's T20 World Cup
+1183543,2020-01-31,England,India,Manuka Oval,Canberra,India,India,field,Australia Tri-Nation Women's T20 Series
+1183545,2020-02-02,Australia,India,Manuka Oval,Canberra,Australia,Australia,field,Australia Tri-Nation Women's T20 Series
+1183546,2020-02-07,England,India,Junction Oval,Melbourne,England,England,field,Australia Tri-Nation Women's T20 Series
+1183547,2020-02-08,Australia,India,Junction Oval,Melbourne,India,India,field,Australia Tri-Nation Women's T20 Series
+1183549,2020-02-12,Australia,India,Junction Oval,Melbourne,Australia,Australia,bat,Australia Tri-Nation Women's T20 Series
+1198478,2019-09-24,India,South Africa,Lalabhai Contractor Stadium,Surat,India,South Africa,field,South Africa Women tour of India
+1198481,2019-10-01,India,South Africa,Lalabhai Contractor Stadium,Surat,India,South Africa,field,South Africa Women tour of India
+1198482,2019-10-04,India,South Africa,Lalabhai Contractor Stadium,Surat,South Africa,South Africa,bat,South Africa Women tour of India
+1202252,2019-11-09,West Indies,India,"Darren Sammy National Cricket Stadium, St Lucia",Gros Islet,India,West Indies,field,India Women tour of West Indies
+1202253,2019-11-10,West Indies,India,"Darren Sammy National Cricket Stadium, St Lucia",Gros Islet,India,West Indies,bat,India Women tour of West Indies
+1202254,2019-11-14,West Indies,India,"Providence Stadium, Guyana",Providence,India,West Indies,bat,India Women tour of West Indies
+1202255,2019-11-17,West Indies,India,"Providence Stadium, Guyana",Providence,India,West Indies,field,India Women tour of West Indies
+1202256,2019-11-20,West Indies,India,"Providence Stadium, Guyana",Providence,India,India,bat,India Women tour of West Indies
+1202366,2019-10-03,India,South Africa,Lalabhai Contractor Stadium,Surat,India,India,field,South Africa Women tour of India
+1253272,2021-03-20,India,South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,South Africa,South Africa,field,South Africa Women tour of India
+1253273,2021-03-21,India,South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,South Africa,South Africa,field,South Africa Women tour of India
+1253274,2021-03-23,South Africa,India,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,India,India,field,South Africa Women tour of India
+1260097,2021-07-09,England,India,"County Ground, Northampton",Northampton,England,India,field,India Women tour of England
+1260098,2021-07-11,India,England,"County Ground, Hove",Brighton,India,England,field,India Women tour of England
+1260099,2021-07-14,India,England,"County Ground, Chelmsford",Chelmsford,England,India,bat,India Women tour of England
+1263621,2021-10-07,India,Australia,Carrara Oval,Carrara,,Australia,field,India Women tour of Australia
+1263622,2021-10-09,India,Australia,Carrara Oval,Carrara,Australia,Australia,field,India Women tour of Australia
+1263623,2021-10-10,Australia,India,Carrara Oval,Carrara,Australia,India,field,India Women tour of Australia
+1289031,2022-02-09,New Zealand,India,"John Davies Oval, Queenstown",Queenstown,New Zealand,India,field,India Women tour of New Zealand
+1289259,2022-07-29,India,Australia,"Edgbaston, Birmingham",Birmingham,Australia,India,bat,Commonwealth Games Women's Cricket Competition
+1289263,2022-07-31,Pakistan,India,"Edgbaston, Birmingham",Birmingham,India,Pakistan,bat,Commonwealth Games Women's Cricket Competition
+1289268,2022-08-03,India,Barbados,"Edgbaston, Birmingham",Birmingham,India,Barbados,field,Commonwealth Games Women's Cricket Competition
+1289271,2022-08-06,India,England,"Edgbaston, Birmingham",Birmingham,India,India,bat,Commonwealth Games Women's Cricket Competition
+1289274,2022-08-07,Australia,India,"Edgbaston, Birmingham",Birmingham,Australia,Australia,bat,Commonwealth Games Women's Cricket Competition
+1301334,2022-09-10,India,England,"Riverside Ground, Chester-le-Street",Chester-le-Street,England,England,field,India Women tour of England
+1301335,2022-09-13,England,India,"County Ground, Derby",Derby,India,England,bat,India Women tour of England
+1301336,2022-09-15,India,England,"County Ground, Bristol",Bristol,England,England,field,India Women tour of England
+1319709,2022-06-23,India,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,India,India,bat,India Women tour of Sri Lanka
+1319710,2022-06-25,Sri Lanka,India,Rangiri Dambulla International Stadium,Dambulla,India,Sri Lanka,bat,India Women tour of Sri Lanka
+1319711,2022-06-27,India,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka,India,bat,India Women tour of Sri Lanka
+1335786,2022-10-01,India,Sri Lanka,"Sylhet International Cricket Stadium, Academy Ground",Sylhet,India,Sri Lanka,field,Women's Asia Cup
+1335790,2022-10-03,India,Malaysia,"Sylhet International Cricket Stadium, Academy Ground",Sylhet,India,Malaysia,field,Women's Asia Cup
+1335792,2022-10-04,India,United Arab Emirates,"Sylhet International Cricket Stadium, Academy Ground",Sylhet,India,India,bat,Women's Asia Cup
+1335797,2022-10-07,Pakistan,India,Sylhet International Cricket Stadium,Sylhet,Pakistan,Pakistan,bat,Women's Asia Cup
+1335799,2022-10-08,India,Bangladesh,Sylhet International Cricket Stadium,Sylhet,India,India,bat,Women's Asia Cup
+1335803,2022-10-10,Thailand,India,Sylhet International Cricket Stadium,Sylhet,India,India,field,Women's Asia Cup
+1335806,2022-10-13,India,Thailand,Sylhet International Cricket Stadium,Sylhet,India,Thailand,field,Women's Asia Cup
+1335808,2022-10-15,Sri Lanka,India,Sylhet International Cricket Stadium,Sylhet,India,Sri Lanka,bat,Women's Asia Cup
+1338043,2023-02-12,Pakistan,India,"Newlands, Cape Town",Cape Town,India,Pakistan,bat,ICC Women's T20 World Cup
+1338048,2023-02-15,West Indies,India,"Newlands, Cape Town",Cape Town,India,West Indies,bat,ICC Women's T20 World Cup
+1338053,2023-02-18,England,India,"St George's Park, Gqeberha",Gqeberha,England,India,field,ICC Women's T20 World Cup
+1338057,2023-02-20,India,Ireland,"St George's Park, Gqeberha",Gqeberha,India,India,bat,ICC Women's T20 World Cup
+1338060,2023-02-23,Australia,India,"Newlands, Cape Town",Cape Town,Australia,Australia,bat,ICC Women's T20 World Cup
+1344511,2023-01-19,India,South Africa,"Buffalo Park, East London",East London,India,South Africa,field,South Africa Women's T20I Tri-Series
+1344513,2023-01-23,India,West Indies,"Buffalo Park, East London",East London,India,India,bat,South Africa Women's T20I Tri-Series
+1344515,2023-01-28,India,South Africa,"Buffalo Park, East London",East London,,India,bat,South Africa Women's T20I Tri-Series
+1344516,2023-01-30,West Indies,India,"Buffalo Park, East London",East London,India,India,field,South Africa Women's T20I Tri-Series
+1344517,2023-02-02,India,South Africa,"Buffalo Park, East London",East London,South Africa,India,bat,South Africa Women's T20I Tri-Series
+1345424,2022-12-09,India,Australia,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Australia,Australia,field,Australia Women tour of India
+1345425,2022-12-11,Australia,India,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,,India,field,Australia Women tour of India
+1345426,2022-12-14,Australia,India,"Brabourne Stadium, Mumbai",Mumbai,Australia,India,field,Australia Women tour of India
+1345427,2022-12-17,Australia,India,"Brabourne Stadium, Mumbai",Mumbai,Australia,India,field,Australia Women tour of India
+1345428,2022-12-20,Australia,India,"Brabourne Stadium, Mumbai",Mumbai,Australia,India,field,Australia Women tour of India
+1382163,2023-07-09,Bangladesh,India,"Shere Bangla National Stadium, Mirpur",Dhaka,India,India,field,India Women tour of Bangladesh
+1382164,2023-07-11,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,India,India,bat,India Women tour of Bangladesh
+1382165,2023-07-13,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,India,bat,India Women tour of Bangladesh
+1399055,2023-09-21,India,Malaysia,Zhejiang University of Technology Cricket Field,Hangzhou,,Malaysia,field,Asian Games Women's Cricket Competition
+1399059,2023-09-24,Bangladesh,India,Zhejiang University of Technology Cricket Field,Hangzhou,India,Bangladesh,bat,Asian Games Women's Cricket Competition
+1399062,2023-09-25,India,Sri Lanka,Zhejiang University of Technology Cricket Field,Hangzhou,India,India,bat,Asian Games Women's Cricket Competition
+1406073,2023-12-06,England,India,"Wankhede Stadium, Mumbai",Mumbai,England,India,field,England Women tour of India
+1406074,2023-12-09,India,England,"Wankhede Stadium, Mumbai",Mumbai,England,England,field,England Women tour of India
+1406075,2023-12-10,England,India,"Wankhede Stadium, Mumbai",Mumbai,India,England,bat,England Women tour of India
+1406081,2024-01-05,Australia,India,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,India,India,field,Australia Women tour of India
+1406082,2024-01-07,India,Australia,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Australia,Australia,field,Australia Women tour of India
+1406083,2024-01-09,India,Australia,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Australia,Australia,field,Australia Women tour of India
+1426757,2024-07-19,Pakistan,India,Rangiri Dambulla International Stadium,Dambulla,India,Pakistan,bat,Women's Asia Cup
+1426760,2024-07-21,India,United Arab Emirates,Rangiri Dambulla International Stadium,Dambulla,India,United Arab Emirates,field,Women's Asia Cup
+1426765,2024-07-23,India,Nepal,Rangiri Dambulla International Stadium,Dambulla,India,India,bat,Women's Asia Cup
+1426768,2024-07-26,Bangladesh,India,Rangiri Dambulla International Stadium,Dambulla,India,Bangladesh,bat,Women's Asia Cup
+1426770,2024-07-28,India,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka,India,bat,Women's Asia Cup
+1429393,2024-04-28,India,Bangladesh,Sylhet International Cricket Stadium,Sylhet,India,India,bat,India Women tour of Bangladesh
+1429394,2024-04-30,Bangladesh,India,Sylhet International Cricket Stadium,Sylhet,India,Bangladesh,bat,India Women tour of Bangladesh
+1429395,2024-05-02,Bangladesh,India,Sylhet International Cricket Stadium,Sylhet,India,India,field,India Women tour of Bangladesh
+1429396,2024-05-06,India,Bangladesh,Sylhet International Cricket Stadium,Sylhet,India,Bangladesh,field,India Women tour of Bangladesh
+1429397,2024-05-09,India,Bangladesh,Sylhet International Cricket Stadium,Sylhet,India,India,bat,India Women tour of Bangladesh
+1432425,2024-10-04,New Zealand,India,Dubai International Cricket Stadium,Dubai,New Zealand,New Zealand,bat,ICC Women's T20 World Cup
+1432428,2024-10-06,Pakistan,India,Dubai International Cricket Stadium,Dubai,India,Pakistan,bat,ICC Women's T20 World Cup
+1432433,2024-10-09,India,Sri Lanka,Dubai International Cricket Stadium,Dubai,India,India,bat,ICC Women's T20 World Cup
+1432439,2024-10-13,Australia,India,Sharjah Cricket Stadium,Sharjah,Australia,Australia,bat,ICC Women's T20 World Cup
+1434291,2024-07-05,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,South Africa,India,field,South Africa Women tour of India
+1434292,2024-07-07,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,,India,field,South Africa Women tour of India
+1434293,2024-07-09,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,India,India,field,South Africa Women tour of India
+1448397,2025-06-28,India,England,"Trent Bridge, Nottingham",Nottingham,India,England,field,India Women tour of England
+1448398,2025-07-01,India,England,"County Ground, Bristol",Bristol,India,England,field,India Women tour of England
+1448399,2025-07-04,England,India,"Kennington Oval, London",London,England,England,bat,India Women tour of England
+1448400,2025-07-09,England,India,"Old Trafford, Manchester",Manchester,India,England,bat,India Women tour of England
+1448401,2025-07-12,India,England,"Edgbaston, Birmingham",Birmingham,England,England,field,India Women tour of England
+1459891,2024-12-15,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,India,West Indies,field,West Indies Women tour of India
+1459892,2024-12-17,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,West Indies,West Indies,field,West Indies Women tour of India
+1459893,2024-12-19,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,India,West Indies,field,West Indies Women tour of India
+1513735,2025-12-21,Sri Lanka,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,India,India,field,Sri Lanka Women tour of India
+1513736,2025-12-23,Sri Lanka,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,India,India,field,Sri Lanka Women tour of India
+1513737,2025-12-26,Sri Lanka,India,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,India,India,field,Sri Lanka Women tour of India
+1513738,2025-12-28,India,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,India,Sri Lanka,field,Sri Lanka Women tour of India
+1513739,2025-12-30,India,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,India,Sri Lanka,field,Sri Lanka Women tour of India
+355988,2009-06-18,India,New Zealand,Trent Bridge,Nottingham,New Zealand,New Zealand,bat,ICC Women's World Twenty20
+412716,2010-05-13,Australia,India,"Beausejour Stadium, Gros Islet",St Lucia,Australia,India,bat,ICC Women's World Twenty20
+492547,2011-06-26,England,India,County Ground,Taunton,England,England,bat,NatWest Women's T20 Quadrangular Series
+533302,2012-09-27,Australia,India,Galle International Stadium,,Australia,India,bat,ICC Women's World Twenty20
+533306,2012-09-29,England,India,Galle International Stadium,,England,India,bat,ICC Women's World Twenty20
+533309,2012-10-01,India,Pakistan,Galle International Stadium,,Pakistan,Pakistan,bat,ICC Women's World Twenty20
+542850,2012-06-26,England,India,St Lawrence Ground,Canterbury,England,India,field,India Women in England T20I Series
+542851,2012-06-28,England,India,County Ground,Chelmsford,England,India,bat,India Women in England T20I Series
+584772,2012-10-03,Sri Lanka,India,Nondescripts Cricket Club Ground,Colombo,India,Sri Lanka,bat,ICC Women's World Twenty20
+584924,2012-10-28,India,Pakistan,Guanggong International Cricket Stadium,,India,Pakistan,bat,Asian Cricket Council Women's Twenty20 Asia Cup
+584929,2012-10-31,India,Pakistan,Guanggong International Cricket Stadium,,India,India,bat,Asian Cricket Council Women's Twenty20 Asia Cup
+682973,2014-03-24,India,Sri Lanka,Sylhet Stadium,,Sri Lanka,Sri Lanka,bat,Women's World T20
+682981,2014-03-26,England,India,Sylhet Stadium,,England,India,bat,Women's World T20
+682995,2014-03-30,Bangladesh,India,Sylhet Stadium,,India,India,bat,Women's World T20
+683005,2014-04-01,India,West Indies,Sylhet Stadium,,India,West Indies,bat,Women's World T20
+683009,2014-04-02,India,Pakistan,Sylhet Stadium,,India,India,bat,Women's World T20
+895789,2016-01-29,Australia,India,Melbourne Cricket Ground,,India,India,field,India Women in Australia T20I Series
+895791,2016-01-31,Australia,India,Sydney Cricket Ground,,Australia,India,field,India Women in Australia T20I Series
+951375,2016-03-15,India,Bangladesh,M Chinnaswamy Stadium,Bangalore,India,Bangladesh,field,Women's World T20
+951387,2016-03-19,India,Pakistan,Feroz Shah Kotla,Delhi,Pakistan,Pakistan,field,Women's World T20
+951395,2016-03-22,India,England,Himachal Pradesh Cricket Association Stadium,Dharamsala,England,England,field,Women's World T20
+951409,2016-03-27,India,West Indies,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,West Indies,India,field,Women's World T20
